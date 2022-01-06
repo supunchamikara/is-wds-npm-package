@@ -2,4 +2,4 @@ function isWds(string) {
   return string === "WDS";
 }
 
-module.export = isWds;
+module.exports = isWds;
