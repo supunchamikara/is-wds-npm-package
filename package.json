@@ -1,0 +1,22 @@
+{
+  "name": "@supunch/test-wds",
+  "version": "1.0.0",
+  "description": "first wdds package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://supunchamikara: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@github.com/supunchamikara/is-wds-npm-package.git"
+  },
+  "keywords": [
+    "wds"
+  ],
+  "author": "supun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supunchamikara/is-wds-npm-package/issues"
+  },
+  "homepage": "https://github.com/supunchamikara/is-wds-npm-package#readme"
+}
